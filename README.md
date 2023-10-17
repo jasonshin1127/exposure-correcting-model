@@ -1,2 +1,1 @@
-# exposure-correcting-model
-Multi-scale exposure correcting model
+# tone_mapping_model
