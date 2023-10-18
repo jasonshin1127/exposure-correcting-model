@@ -8,4 +8,5 @@ Dataset:
 
 ![112195940-e7091780-8be0-11eb-869d-8a40675beb3a](https://github.com/jasonshin1127/exposure-correcting-model/assets/101506840/ac5b22b8-363b-46f5-96b4-0225dc35d335)
 ImageX : Images that require exposure correction
+
 ImageY : Images that are manually edited
