@@ -19,6 +19,8 @@ then, run model.py to start training and reassemble the patches:
 
 <img width="610" alt="image" src="https://github.com/jasonshin1127/exposure-correcting-model/assets/101506840/191dcc31-8b9c-4be8-9865-f5ad63f0cd2f">
 
+(left: input image, Right: output image)
+
 Result:
 
 the result image quality diminishes due to the patch reassembling process but gives critical guidelines for manual tone editing engineers
