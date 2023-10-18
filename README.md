@@ -11,9 +11,20 @@ ImageX : Images that require exposure correction
 
 ImageY : Images that are manually edited
 
-Patchify (patch.py): python files that allows splitting image into 16*16 patches
+Patchify (patch.py): python files that extract 16*16 patches from the original image
 
 <img width="996" alt="Screenshot 2023-10-17 at 5 37 23 PM" src="https://github.com/jasonshin1127/exposure-correcting-model/assets/101506840/30081fcb-4111-47ca-a410-7c0c9840c888">
+
+then, run model.py to start training and reassemble the patches:
+
+<img width="610" alt="image" src="https://github.com/jasonshin1127/exposure-correcting-model/assets/101506840/191dcc31-8b9c-4be8-9865-f5ad63f0cd2f">
+
+Result:
+
+the result image quality diminishes due to the patch reassembling process but gives critical guidelines for manual tone editing engineers
+
+
+
 
 
 
