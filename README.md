@@ -10,3 +10,11 @@ Dataset:
 ImageX : Images that require exposure correction
 
 ImageY : Images that are manually edited
+
+Patchify (patch.py): python files that allows splitting image into 16*16 patches
+
+<img width="996" alt="Screenshot 2023-10-17 at 5 37 23 PM" src="https://github.com/jasonshin1127/exposure-correcting-model/assets/101506840/30081fcb-4111-47ca-a410-7c0c9840c888">
+
+
+
+
